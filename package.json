@@ -11,9 +11,11 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "cloudinary": "^2.11.0",
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
     "https": "^1.0.0",
+    "multer": "^2.5.0",
     "os": "^0.1.2"
   }
 }
